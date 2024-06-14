@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariarasu" alt="hariarasu" /></a> </p>
 
-- 🌱 I’m currently learning **React,Tailwind css**
+<img align="right" width="450px" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" alt="hariarasu"> 
+- 🌱 I’m currently learning **React,Tailwind css,Node.js**
 
 - 📫 How to reach me **hariarasuravi001@gmail.com**
 
@@ -25,4 +26,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hariarasu&show_icons=true&locale=en&layout=compact" alt="hariarasu" /></p>
 <p><img align="center" src="https://leetcard.jacoblin.cool/hariarasu?theme=dark&font=Kurale",alt="hariarasu"/></p>
+<!--<p><img align="center" src="https://github.com/hariarasu/github-readme-activity-graph",alt="hariarasu"/></p> -->
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hariarasu&" alt="hariarasu" /></p>
